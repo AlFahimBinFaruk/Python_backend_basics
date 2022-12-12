@@ -20,3 +20,4 @@ Socket Programming provides the ability to
 
 ### Resources
 * [Python socket programming tutorial(core)](https://www.youtube.com/watch?v=3QiPPX-KeSc)
+* [A Beginner's Guide to WebSockets](https://www.youtube.com/watch?v=8ARodQ4Wlf4)
